@@ -1,2 +1,4 @@
 chekcout 检出做了两件事:(git checkout master)
 1.head指向master分支，2.将工作目录恢复为master分支所指向的快照内容
+$ git log --oneline --decorate --graph --all
+
