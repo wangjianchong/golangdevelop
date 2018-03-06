@@ -3,3 +3,7 @@ func (w http.ResponseWriter r *http.Request)  r is a pointer ,why?
 http://www.ruanyifeng.com/blog/2017/05/websocket.html web
 https://yhatt.github.io/marp/#  用markdown写ppt的工具
 
+export GOROOT=/home/wangjc/go
+export GOPATH=/home/wangjc/gopath:/home/wangjc/workcode/cloud_trunk/pkg
+export PATH=$GOROOT/bin:$PATH
+
