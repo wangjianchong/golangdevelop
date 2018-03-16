@@ -6,4 +6,4 @@ https://yhatt.github.io/marp/#  用markdown写ppt的工具
 export GOROOT=/home/wangjc/go
 export GOPATH=/home/wangjc/gopath:/home/wangjc/workcode/cloud_trunk/pkg
 export PATH=$GOROOT/bin:$PATH
-
+https://www.cnblogs.com/zhanglm125/p/4835778.html  http refer 
