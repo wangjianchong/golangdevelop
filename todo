@@ -7,3 +7,4 @@ export GOROOT=/home/wangjc/go
 export GOPATH=/home/wangjc/gopath:/home/wangjc/workcode/cloud_trunk/pkg
 export PATH=$GOROOT/bin:$PATH
 https://www.cnblogs.com/zhanglm125/p/4835778.html  http refer 
+./licenseHandle.go:410:62: cannot assign to struct field classPrdMap[classPrdStu.Classid].SelectedselfproductList in map  reason 查找map赋值原因
